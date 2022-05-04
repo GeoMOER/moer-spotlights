@@ -23,7 +23,7 @@
 
 # Serve on GitHub
 url: https://geomoer.github.io/
-baseurl: "/spotlights"
+baseurl: "moer-spotlights"
 
 
 ##### Title ###################################################################
