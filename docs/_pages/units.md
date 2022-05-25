@@ -14,13 +14,6 @@ feature_row:
     btn_label: "Show me more"
     btn_class: "btn--danger"
 
-  - image_path: /assets/images/jekyll-logo.png
-    alt: "Unit 2"
-    title: "02 Lorem Ipsum"
-    excerpt: "Lorem Ipsum."
-    url: "/unit02/unit02-01.html"
-    btn_label: "Show me more"
-    btn_class: "btn--danger"
 ---
 
 # Overview of Course Units

@@ -101,17 +101,7 @@ defaults:
       type: unit01
     values:
       category: "Jekyll & Markdown"
-      tags: "lorem ipsum"
-      layout: single
-      sidebar:
-        nav: "units"
-  # unit02
-  - scope:
-      path: ""
-      type: unit02
-    values:
-      category: "Lorem Ipsum"
-      tags: "lorem ipsum"
+      tags: "Jekyll"
       layout: single
       sidebar:
         nav: "units"
