@@ -23,7 +23,7 @@
 
 # Serve on GitHub
 url: https://geomoer.github.io/
-baseurl: "moer-spotlights"
+baseurl: "/moer-spotlights"
 
 
 ##### Title ###################################################################
@@ -100,7 +100,7 @@ defaults:
       path: ""
       type: unit01
     values:
-      category: "Lorem Ipsum"
+      category: "Jekyll & Markdown"
       tags: "lorem ipsum"
       layout: single
       sidebar:
