@@ -10,7 +10,7 @@ header:
   caption: 'Photo: [**Jekyll**](https://jekyllrb.com/)'
   cta_label: Go to course units
   cta_url: "/units.html"
-excerpt: Learn the essentials for working with Jekyll.
+excerpt: Collection of useful sites for courses at the Lab of Environmental Informatics.
 feature_row_intro:
 - excerpt: This guide is brought to you by the Lab of Environmental Informatics (University of Marburg, Germany) and was funded by the "digLL" initiative of the Hessian Ministry of Higher Education, Research, Science and the Arts.
 feature_row_ilos:
@@ -26,24 +26,7 @@ feature_row_ilos:
 {% include feature_row id="feature_row_intro" type="center" %}
 
 
-Tom Preston-Werner, co-founder of GitHub, created Jekyll as a static site generator written in Ruby. It is distributed under the MIT license. It can be used to build easy-to-use websites with rich and easy-to-use navigation, just like content management systems like Drupal and WordPress.
-
-> “Jekyll does what you tell it to do — no more, no less. It doesn't try to outsmart users by making bold assumptions, nor does it burden them with needless complexity and configuration. Put simply, Jekyll gets out of your way and allows you to concentrate on what truly matters: your content.” – Jekyll's "README" file
-
-
-# Intended learning outcomes
-At the end of this course you should
-
-* know how what Ruby and Jekyll are and how to install them.
-* know how to use Jekyll for structuring and generating your own static webpage.
-* have the basic programming skills for working in more complex subject-specific projects.
-
-
-# Course features
-
-This course is intended as a blended learning module in the study program of the Department of Geography at the University of Marburg.
-
-However, the provided units and spotlights can also be used independently.
+This site serves as a curated collection of useful tools, guides, and technical resources for students and researchers working in the Lab of Environmental Informatics. It aims to support both introductory and advanced tasks related to digital infrastructure, scientific computing, and data communication in environmental science.
 
 
 # Syllabus
@@ -51,7 +34,7 @@ However, the provided units and spotlights can also be used independently.
 | Unit | Topic | Content |
 |------|-------|---------|
 | 01 | What are Ruby and Jekyll? | Explaining what Ruby and Jekyll do. |
-| 02 | How to install them?  | Step-by-step guide to installing Ruby and Jekyll on your system. |
+| 02 | R & OPSI  | Step-by-step guide to installing R packages on an OPSI controlled PC. |
 
 
 

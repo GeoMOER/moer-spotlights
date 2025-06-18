@@ -105,6 +105,16 @@ defaults:
       layout: single
       sidebar:
         nav: "units"
+  # unit02
+  - scope:
+      path: ""
+      type: unit02
+    values:
+      category: "R & OPSI"
+      tags: "R"
+      layout: single
+      sidebar:
+        nav: "units"
 
   # pages
   - scope:

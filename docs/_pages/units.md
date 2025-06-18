@@ -13,6 +13,13 @@ feature_row:
     url: "/unit01/unit01-01.html"
     btn_label: "Show me more"
     btn_class: "btn--danger"
+  - image_path: /assets/images/opsi.png
+    alt: "Unit 2"
+    title: "02 R & OPSI"
+    excerpt: "How to install R packages on university OPSI PCs."
+    url: "/unit02/unit02-01_opsi.html"
+    btn_label: "Show me more"
+    btn_class: "btn--danger"
 
 ---
 
